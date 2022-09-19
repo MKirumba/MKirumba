@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKirumba
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning all things computer programs
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning all things computer programming
 - 💞️ I’m looking to collaborate on web dev apps android mobile OS
 - 📫 How to reach me on GitHub
 
